@@ -1,0 +1,5 @@
+1. Descomprimir la carpeta invensense-imu-main.
+2. Poner la carpeta descomprimida en las librerias de ardiono, en mi casi la ruta es: Arduino-libraries.
+3. Cargar el código, GiroscopioMPU9250.ino en ArduinoIDE.
+4. Una vez que compile el código lo que haremos sera abrir el monitor serie que se muestran los datos.
+Cualquier duda, no duden en preguntarme.
